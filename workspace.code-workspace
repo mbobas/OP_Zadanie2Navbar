@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "bigtodoapp",
+			"path": "..\\..\\..\\EWProjects\\BigToDoApp\\bigtodoapp"
+		},
+		{
+			"name": "zrodla-react-w-praktyce",
+			"path": "..\\..\\..\\EWProjects\\BigToDoApp\\zrodla-react-w-praktyce"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
